@@ -1,2 +1,2 @@
 source :rubygems
-gem 'tweetlr'
+gem 'tweetlr', '>= 0.1.3'
